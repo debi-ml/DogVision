@@ -12,7 +12,7 @@ model_info = """
 
 """
 
-examples = [["./examples/nala.jpg"], ["./examples/molly.jpg"]]
+#examples = [["./examples/nala.jpg"], ["./examples/molly.jpg"]]
 
 def preprocess(image):
     print("before resize", image.shape)
@@ -40,7 +40,7 @@ iface = gr.Interface(
     outputs=[gr.Label(num_top_classes=5)],
     title="Dog Vision Mini Project",
     description=f"{model_info}\n",
-    examples=examples
+    #examples=examples
 )
 
 iface.launch()
