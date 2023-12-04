@@ -8,7 +8,17 @@ model = from_pretrained_keras("ml-debi/EfficientNetV2S-StanfordDogsA")
 
 # Add information about the models
 model_info = """
-### Model Information
+## 🐾 **Welcome to My Dog Breed Classifier!** 🐾
+
+Unleash the power of AI and step into the world of dog breeds with my image classification app. This isn't just any app, it's your personal guide to the canine kingdom. 
+
+My app uses the state-of-the-art **EfficientNetV2s model**, fine-tuned on the renowned **Stanford Dogs dataset**. This means you're getting top-tier, accurate results every time you use my app. 
+
+Ever wondered what breed that adorable pooch in the park is? Or maybe you're curious about the lineage of your own furry friend? Snap a picture, upload it to my app, and voila! You'll have your answer in no time. 
+
+From Affenpinschers to Yorkshire Terriers and everything in between, my app classifies over 120 breeds with ease. So why wait? Dive into the diverse world of dog breeds and discover something new today!
+
+**Join me on this pawsome adventure!** 🐶
 
 """
 
