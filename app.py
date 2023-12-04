@@ -16,7 +16,7 @@ My app uses the state-of-the-art **EfficientNetV2s model**, fine-tuned on the re
 
 Ever wondered what breed that adorable pooch in the park is? Or maybe you're curious about the lineage of your own furry friend? Snap a picture, upload it to my app, and voila! You'll have your answer in no time. 
 
-From Affenpinschers to Yorkshire Terriers and everything in between, my app classifies over 120 breeds with ease. So why wait? Dive into the diverse world of dog breeds and discover something new today!
+From Affenpinschers to Yorkshire Terriers and everything in between, my app classifies 120 breeds with ease. So why wait? Dive into the diverse world of dog breeds and discover something new today!
 
 **Join me on this pawsome adventure!** 🐶
 
